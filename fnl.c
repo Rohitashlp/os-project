@@ -39,11 +39,11 @@ void printQueue(struct process *,int);
 
 //Queues
 
-//Q1 = Batch Process having Low Priority with FCFS Algorithm
+//Q1 =Process having Low Priority with FCFS Algorithm
 
-//Q2 = Interactive Process having Medium Priority with Priority Based Sorting
+//Q2 =Process having Medium Priority with Priority Based Sorting
 
-//Q3 = System Process having High Priority with Round Robin Algorithm Quantum Time=4
+//Q3 =Process having High Priority with Round Robin Algorithm Quantum Time=4
 
 int q1_n=0,q2_n=0,q3_n=0,n=0; //N=Total Process
 
